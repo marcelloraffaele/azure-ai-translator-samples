@@ -1,2 +1,10 @@
-# azure-ai-translator-samples
-Azure AI Translator samples
+# azure-ai-translator-examples
+Examples with openai
+
+## Before to run
+1. Install the requirements
+
+```powershell
+py -m venv .venv
+.venv\Scripts\activate
+```
