@@ -1,5 +1,5 @@
 # azure-ai-translator-examples
-Examples with openai
+Examples with Azure AI Translator
 
 ## Before to run
 1. Install the requirements
