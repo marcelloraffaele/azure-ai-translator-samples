@@ -8,3 +8,9 @@ Examples with Azure AI Translator
 py -m venv .venv
 .venv\Scripts\activate
 ```
+
+2. Install the requirements
+
+```powershell
+pip install -r requirements.txt
+```
